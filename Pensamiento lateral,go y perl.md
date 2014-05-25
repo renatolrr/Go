@@ -1,117 +1,117 @@
-Pensamiento lateral
+##Pensamiento lateral
 
 
-El pensamiento lateral (del inglés lateral thinking) es un método de pensamiento 
-que puede ser empleado como una técnica para la resolución de problemas de manera 
-imaginativa. El término fue acuñado por Edward de Bono, 
+El pensamiento lateral (del inglï¿½s lateral thinking) es un mï¿½todo de pensamiento 
+que puede ser empleado como una tï¿½cnica para la resoluciï¿½n de problemas de manera 
+imaginativa. El tï¿½rmino fue acuï¿½ado por Edward de Bono, 
 en su libro New Think: The Use of Lateral Thinking y publicado en 1967, 
-que se refiere a la técnica que permite la resolución de problemas de una manera indirecta 
-y con un enfoque creativo. El pensamiento lateral es una forma específica de 
-organizar los procesos de pensamiento, que busca una solución mediante estrategias 
-o algoritmos no ortodoxos, que normalmente serían ignorados por el pensamiento lógico.
-Idealización de la realidad.
+que se refiere a la tï¿½cnica que permite la resoluciï¿½n de problemas de una manera indirecta 
+y con un enfoque creativo. El pensamiento lateral es una forma especï¿½fica de 
+organizar los procesos de pensamiento, que busca una soluciï¿½n mediante estrategias 
+o algoritmos no ortodoxos, que normalmente serï¿½an ignorados por el pensamiento lï¿½gico.
+Idealizaciï¿½n de la realidad.
 
 
-La idea central es la siguiente: al evaluar un problema existiría la tendencia a seguir 
-un patrón natural o habitual de pensamiento (las sillas son para sentarse, el suelo para caminar, 
-un vaso para ser llenado con un líquido, etc.), lo cual limitaría las soluciones posibles. 
-Con el pensamiento lateral sería posible romper con este patrón rígido, lo que permitiría 
-obtener ideas mucho más creativas e innovadoras para representar todos esos caminos alternativos 
-o desacostumbrados, que permiten la resolución de los problemas de forma indirecta y con un enfoque creativo. 
-En particular, la técnica se basa en que, mediante provocaciones del pensamiento, 
-se haría posible un desvío del camino o patrón habitual del pensamiento.
+La idea central es la siguiente: al evaluar un problema existirï¿½a la tendencia a seguir 
+un patrï¿½n natural o habitual de pensamiento (las sillas son para sentarse, el suelo para caminar, 
+un vaso para ser llenado con un lï¿½quido, etc.), lo cual limitarï¿½a las soluciones posibles. 
+Con el pensamiento lateral serï¿½a posible romper con este patrï¿½n rï¿½gido, lo que permitirï¿½a 
+obtener ideas mucho mï¿½s creativas e innovadoras para representar todos esos caminos alternativos 
+o desacostumbrados, que permiten la resoluciï¿½n de los problemas de forma indirecta y con un enfoque creativo. 
+En particular, la tï¿½cnica se basa en que, mediante provocaciones del pensamiento, 
+se harï¿½a posible un desvï¿½o del camino o patrï¿½n habitual del pensamiento.
 
 
 
 
-Go
+##Go
 
-El go era considerado una de las Cuatro Artes Tradicionales de los eruditos chinos, junto con la caligrafía, la pintura y la interpretación del instrumento musical guqin.
+El go era considerado una de las Cuatro Artes Tradicionales de los eruditos chinos, junto con la caligrafï¿½a, la pintura y la interpretaciï¿½n del instrumento musical guqin.
 
 El Go (Jorge Luis Borges)
 
 Hoy, 9 de septiembre de 1978,
-tuve en la palma de mi mano un pequeño disco
+tuve en la palma de mi mano un pequeï¿½o disco
 de los trescientos sesenta y uno que se requieren
-para el juego astrológico del Go,
+para el juego astrolï¿½gico del Go,
 ese otro ajedrez de Oriente.
-Es más antiguo que la más antigua escritura
+Es mï¿½s antiguo que la mï¿½s antigua escritura
 y el tablero es un mapa del universo.
 Sus variaciones negras y blancas
-agotarán el tiempo;
-en él pueden perderse los hombres
-como en el amor o en el día.
+agotarï¿½n el tiempo;
+en ï¿½l pueden perderse los hombres
+como en el amor o en el dï¿½a.
 Hoy, 9 de septiembre de 1978,
 yo, que soy ignorante de tantas cosas,
-sé que ignoro una más,
-y agradezco a mis númenes
-esta revelación de laberintos
-que ya no exploraré...
+sï¿½ que ignoro una mï¿½s,
+y agradezco a mis nï¿½menes
+esta revelaciï¿½n de laberintos
+que ya no explorarï¿½...
 
 
-Alumno: ¿Cuál es el juego más complejo que ha inventado el hombre?
+Alumno: ï¿½Cuï¿½l es el juego mï¿½s complejo que ha inventado el hombre?
 Maestro: El ajedrez
-Alumno: ¿Y el go?
+Alumno: ï¿½Y el go?
 Maestro: El go siempre ha existido.
 
 
 
-Software libre
+##Software libre
 
 Free Software Foundation, el software libre se refiere a la libertad de los usuarios para ejecutar, 
 copiar, distribuir, y estudiar el mismo, e incluso modificar el software y distribuirlo.
 
 
 
-A modo de pequeña introducción, para los que no le conozcan, Richard Stallman es el padre del proyecto GNU (el olvidado por muchos del sistema operativo “Linux”, es decir GNU/Linux) y también es el fundador de la FSF (Free Software Fundation / Fundación del Software Libre). Lo que este hombre defiende es el software libre (que es un concepto más amplio y profundo que el código abierto) y sus cuatro libertades:
+A modo de pequeï¿½a introducciï¿½n, para los que no le conozcan, Richard Stallman es el padre del proyecto GNU (el olvidado por muchos del sistema operativo ï¿½Linuxï¿½, es decir GNU/Linux) y tambiï¿½n es el fundador de la FSF (Free Software Fundation / Fundaciï¿½n del Software Libre). Lo que este hombre defiende es el software libre (que es un concepto mï¿½s amplio y profundo que el cï¿½digo abierto) y sus cuatro libertades:
 
-    Libertad 0: La libertad para ejecutar el programa con cualquier propósito.
+    Libertad 0: La libertad para ejecutar el programa con cualquier propï¿½sito.
     Libertad 1: La libertad para estudiar y modificar el programa.
-    Libertad 2: La libertad de copiar el programa y ayudar con él a tu vecino.
-    Libertad 3: La libertad de mejorar el programa, y hacer públicas tus mejoras, de forma que se beneficie toda la comunidad.
+    Libertad 2: La libertad de copiar el programa y ayudar con ï¿½l a tu vecino.
+    Libertad 3: La libertad de mejorar el programa, y hacer pï¿½blicas tus mejoras, de forma que se beneficie toda la comunidad.
 
-Sus frases en ocasiones se tachan de conflictivas porque no tiene miedo a chocar directamente con temas políticos o modelos empresariales consolidados. Sin embargo, aunque a algunos les choque no dejan de tener mucho sentido:
+Sus frases en ocasiones se tachan de conflictivas porque no tiene miedo a chocar directamente con temas polï¿½ticos o modelos empresariales consolidados. Sin embargo, aunque a algunos les choque no dejan de tener mucho sentido:
 
-“¿El éxito es la meta? Pienso que no. La meta es conseguir, defender y mantener nuestra libertad”
-
-
-La libertad no es poder elegir entre unas pocas opciones impuestas, sino tener el control de tu propia vida. La libertad no es elegir quien será tu amo, es no tener amo“
+ï¿½ï¿½El ï¿½xito es la meta? Pienso que no. La meta es conseguir, defender y mantener nuestra libertadï¿½
 
 
+La libertad no es poder elegir entre unas pocas opciones impuestas, sino tener el control de tu propia vida. La libertad no es elegir quien serï¿½ tu amo, es no tener amoï¿½
 
-Perl
 
-There's more than one way to do it (Hay más de una forma de hacerlo) 
+
+##Perl
+
+There's more than one way to do it (Hay mï¿½s de una forma de hacerlo) 
 (TMTOWTDI, usualmente pronunciado 'Tim Toady')
 
 Benevolent Dictator for Life es Dictador Benevolente De por vida:
 
-    Larry siempre tiene la correcta definición acerca de cómo debe comportarse Perl. Esto quiere decir que tiene veto final sobre la funcionalidad del núcleo.
-    Larry tiene permitido cambiar, más tarde, sus ideas sobre cualquier materia, independientemente de que anteriormente haya invocado la primera regla.
+    Larry siempre tiene la correcta definiciï¿½n acerca de cï¿½mo debe comportarse Perl. Esto quiere decir que tiene veto final sobre la funcionalidad del nï¿½cleo.
+    Larry tiene permitido cambiar, mï¿½s tarde, sus ideas sobre cualquier materia, independientemente de que anteriormente haya invocado la primera regla.
 
-    ¿Se entiende? Larry siempre tiene razón, incluso cuando se equivoca.
+    ï¿½Se entiende? Larry siempre tiene razï¿½n, incluso cuando se equivoca.
 
 El Zen de Python
 
         Bello es mejor que feo.
-        Explícito es mejor que implícito.
+        Explï¿½cito es mejor que implï¿½cito.
         Simple es mejor que complejo.
         Complejo es mejor que complicado.
         Plano es mejor que anidado.
         Disperso es mejor que denso.
         La legibilidad cuenta.
         Los casos especiales no son tan especiales como para quebrantar las reglas.
-        Aunque lo práctico gana a la pureza.
-        Los errores nunca deberían dejarse pasar silenciosamente.
-        A menos que hayan sido silenciados explícitamente.
-        Frente a la ambigüedad, rechaza la tentación de adivinar.
-        Debería haber una -y preferiblemente sólo una- manera obvia de hacerlo.
-        Aunque esa manera puede no ser obvia al principio a menos que usted sea holandés.15
+        Aunque lo prï¿½ctico gana a la pureza.
+        Los errores nunca deberï¿½an dejarse pasar silenciosamente.
+        A menos que hayan sido silenciados explï¿½citamente.
+        Frente a la ambigï¿½edad, rechaza la tentaciï¿½n de adivinar.
+        Deberï¿½a haber una -y preferiblemente sï¿½lo una- manera obvia de hacerlo.
+        Aunque esa manera puede no ser obvia al principio a menos que usted sea holandï¿½s.15
         Ahora es mejor que nunca.
         Aunque nunca es a menudo mejor que ya mismo.
-        Si la implementación es difícil de explicar, es una mala idea.
-        Si la implementación es fácil de explicar, puede que sea una buena idea.
-        Los espacios de nombres (namespaces) son una gran idea ¡Hagamos más de esas cosas!
+        Si la implementaciï¿½n es difï¿½cil de explicar, es una mala idea.
+        Si la implementaciï¿½n es fï¿½cil de explicar, puede que sea una buena idea.
+        Los espacios de nombres (namespaces) son una gran idea ï¿½Hagamos mï¿½s de esas cosas!
 
 Renato L. Ramirez Rivero
 Licencia Creative Commons CompartirIgual (by-sa)
